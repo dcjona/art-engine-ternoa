@@ -1,4 +1,4 @@
-# This is a fork of the HashLips Art Engine 🔥
+# This is a fork of the HashLips Art Engine by DCJona🔥
 
 Create generative art by using the canvas api and node js. Before you use the generation engine, make sure you have node.js installed.
 
